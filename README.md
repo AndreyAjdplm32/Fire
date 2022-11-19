@@ -1,5 +1,5 @@
 # ГОРИ,ГОРИ ЯСНО.
-![Это огонь](C:\Users\Aspire\OneDrive\Рабочий стол\Burn\kartinki-ognya-6.jpg)
+![Это огонь](https://proprikol.ru/wp-content/uploads/2020/10/kartinki-ognya-6.jpg))
 ## Характеристики огня
 - Обжигающий
 - Яркий
